@@ -90,7 +90,7 @@ Results are stored in DynamoDB, and the workflow is monitored using CloudWatch L
 1. Access the AWS EC2 workstation environment.
 
 <p align="center">
-<img src="https://i.imgur.com/Vhh0Mxs.png" height="80%" width="80%" alt="Pic"/>
+<img src="https://i.imgur.com/i8p0XhN.png" height="80%" width="80%" alt="Pic"/>
 <br />
 <br />
 
